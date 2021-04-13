@@ -1,0 +1,23 @@
+.thebox{background-color:#d9b3ff;
+padding:20px;
+height: 230px;
+width: 230px;
+border: 1px solid #bf80ff;
+outline-color: black
+margin:auto;
+linear-graident:(0deg, black 0.2%, black 15%, black 30%,)
+
+
+
+}
+thebox:hover {
+  color: black;
+  text-decoration: none
+  
+}
+
+p{font-size: 18px;
+  text-align: center;
+  color: black;
+thebox
+}
